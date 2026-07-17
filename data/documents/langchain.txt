@@ -1,0 +1,2 @@
+LangChain helps developers build applications powered by large language models.
+It provides tools for prompt templates, retrieval, memory, and agent workflows.

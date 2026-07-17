@@ -1,0 +1,2 @@
+FastAPI is a modern Python framework for building APIs.
+It is fast, asynchronous, and automatically generates API documentation.

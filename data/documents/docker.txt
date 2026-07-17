@@ -1,0 +1,2 @@
+Docker packages applications into containers.
+Containers make applications easier to deploy consistently across different environments.
