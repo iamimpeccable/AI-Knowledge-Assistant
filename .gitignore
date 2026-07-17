@@ -8,8 +8,6 @@ venv/
 __pycache__/
 *.pyc
 
-# Generated vector database
-vector_store/
 
 # Chat history
 chat_history/
