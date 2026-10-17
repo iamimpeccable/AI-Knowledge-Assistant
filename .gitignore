@@ -11,3 +11,6 @@ __pycache__/
 
 # Chat history
 chat_history/
+
+# data
+data/local_index/
