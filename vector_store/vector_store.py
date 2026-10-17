@@ -17,6 +17,8 @@ def create_vector_store(all_chunks):
 
         metadata[chunk_id] = {
             "filename": chunk["filename"],
+            "file_path": chunk["file_path"],
+            "file_type": chunk["file_type"],
             "chunk": chunk["chunk"]
         }
 
